@@ -3,7 +3,7 @@
 > A Vue project
 
 # demo
-<a herf="http://mobile.sqkb.com/">click</a>
+http://mobile.sqkb.com/
 
 ## Build Setup
 
